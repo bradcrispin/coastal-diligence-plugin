@@ -1,0 +1,12 @@
+{
+  "name": "coastal-diligence",
+  "owner": { "name": "Coastal Diligence" },
+  "description": "Coastal Diligence research plugins.",
+  "plugins": [
+    {
+      "name": "coastal-diligence",
+      "source": "./coastal-diligence",
+      "description": "Property due-diligence reports and permit briefings on California's coast and in Boulder, CO, run against the Coastal Diligence research server."
+    }
+  ]
+}
