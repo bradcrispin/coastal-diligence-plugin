@@ -2,8 +2,10 @@
   "mcpServers": {
     "cd": {
       "type": "http",
-      "url": "${user_config.server_url}",
-      "headers": { "Authorization": "Bearer ${user_config.api_token}" }
+      "url": "https://mcp.coastaldiligence.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${user_config.api_token}"
+      }
     }
   }
 }

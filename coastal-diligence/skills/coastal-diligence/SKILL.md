@@ -15,5 +15,5 @@ All the method lives on the Coastal Diligence server, not in this plugin.
    every deliverable; the server holds only working copies.
 
 If the server's tools are missing or return "unauthorized", the plugin is not
-connected: tell the user to open the plugin's settings and check the server
-address and access token. Do not attempt the work without the server.
+connected: tell the user to open the plugin's settings and re-enter their access
+token. Do not attempt the work without the server.

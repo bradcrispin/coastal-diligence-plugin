@@ -1,15 +1,11 @@
 {
   "name": "coastal-diligence",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Property due-diligence reports and permit briefings, run against the Coastal Diligence research server.",
-  "author": { "name": "Coastal Diligence" },
+  "author": {
+    "name": "Coastal Diligence"
+  },
   "userConfig": {
-    "server_url": {
-      "type": "string",
-      "title": "Server address",
-      "description": "The Coastal Diligence server address you were given, ending in /mcp.",
-      "required": true
-    },
     "api_token": {
       "type": "string",
       "title": "Access token",
