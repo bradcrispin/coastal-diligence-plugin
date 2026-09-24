@@ -1,6 +1,6 @@
 {
   "name": "coastal-diligence",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Property due-diligence reports and permit briefings, run against the Coastal Diligence research server.",
   "author": {
     "name": "Coastal Diligence"
